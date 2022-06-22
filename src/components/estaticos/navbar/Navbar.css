@@ -1,0 +1,95 @@
+.menu-toolbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cursor{
+    cursor: pointer;
+    color: white;
+    
+}
+
+.nav-laranja{
+    background-color:  #d9931d;
+   
+}
+
+.boxNav{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.titulos{
+    font-family: sans-serif;
+    font-size: 100%;
+   
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.nav-roxa1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    background-color: #665fa3;
+    height: 70px;
+}
+
+.box-roxa1{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.box-roxa2{
+    display: flex;
+    flex-direction: column;
+}
+
+.icones{
+    font-size: 100px;
+    color: white;
+    
+}
+
+.text-location{
+    font-family: sans-serif;
+    color: white;
+      
+}
+
+.navbar-busca{
+    background-color: #665fa3;
+    height: 100px;
+    margin-top: 0.2%;
+    display: flex;
+    flex-direction: row;
+}
+
+.container-busca{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+    padding-left: 40%;
+}
+
+.form-busca{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+   
+}
+
+.navbar3{
+    background-color: #53507f;
+    height: 50px;
+}
+
+.text-white-h4{
+    color: white;
+}
